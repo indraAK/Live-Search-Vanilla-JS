@@ -9,4 +9,4 @@ Membuat Live search atau pencarian data pada tabel yang memiliki banyak list men
 
 # Demo Website
 
-![Klik tautan ini untuk melihat website](https://distracted-khorana-e38d1b.netlify.app/)
+[Klik tautan ini untuk melihat website](https://distracted-khorana-e38d1b.netlify.app/)
